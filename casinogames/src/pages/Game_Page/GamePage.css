@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.game_wrapper{
+    width: 60%;
+    margin: 40px auto;
+}
+
+.image_name{
+    font-size: 40px;
+    text-transform: uppercase;
+}

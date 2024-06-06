@@ -1,0 +1,21 @@
+.search_bar_wrapper {
+  padding: 20px;
+}
+
+label {
+  margin-right: 10px;
+  text-transform: uppercase;
+}
+input {
+  width: 200px;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+}
+
+@media (max-width: 425px) {
+  input {
+    padding: 5px;
+    margin-top: 5px;
+  }
+}

@@ -1,0 +1,10 @@
+.search_filter{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@media (max-width:425px) {
+    .search_filter{
+        display: block;
+    }
+}

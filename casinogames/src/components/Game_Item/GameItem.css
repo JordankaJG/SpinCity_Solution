@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+.game_container{
+    border: 1px solid rgb(149, 149, 149);
+    border-radius: 5px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.304);
+  scale: 1;
+    transition: 0.3s;
+}
+
+.game_name{
+    text-decoration: none;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.game_container:hover{
+    scale: 1.1;
+    transition: 0.2s;
+}
